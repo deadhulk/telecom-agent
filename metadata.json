@@ -1,0 +1,7 @@
+{
+  "name": "TelecomCare Agent",
+  "description": "A conversational AI agent that simulates a polite, concise phone agent for a telecommunications company, capable of handling billing questions and creating support tickets using Gemini function calling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
